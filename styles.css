@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: "Times New Roman", Times, serif;
+}
+
+body {
+  margin: 10px;
+  min-width: 100%;
+  display: flexbox;
+  flex-direction: column;
+}
